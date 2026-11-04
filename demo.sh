@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-echo "Hello, ${1:-you}!, let's create a file!"
+echo "Hello, ${1:-you}!, let's create a new file!"
 echo "enter filename:"
 read filename
 
