@@ -1,2 +1,4 @@
 # Test_repo
-A test repository for understanding github repository behaviour
+A test repository for understanding GitHub repository behaviour
+
+
